@@ -1,0 +1,5 @@
+[{
+  "cron": "* * * * * *",
+  "channel": "#slack-bot-project",
+  "text": "hello"
+}]
