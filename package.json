@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@slack/oauth": "^3.0.2",
+    "@slack/web-api": "^7.9.0",
+    "dotenv": "^16.4.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
